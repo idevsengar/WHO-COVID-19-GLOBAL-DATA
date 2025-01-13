@@ -4,6 +4,14 @@
 
 The **COVID-19 Dashboard** is a comprehensive and interactive visualization tool created using Power BI. The dashboard provides insights into the global impact of the COVID-19 pandemic through various visualizations, including trends over time, regional data, weekly moving averages, and country-specific case counts.
 
+## Key Insight:
+
+a. Covid cases and deaths were increasing till 2021. From 2022 onwards,
+b. Covid was at its peak in 2021.
+c. From 2022 onwards intensity of covid started reducing.
+d. USA, India and Brazil were affected by covid the most.
+e. USA in AMRO region was affected the most by COVID.
+
 ## Features
 
 1. **Time-Series Analysis:**
