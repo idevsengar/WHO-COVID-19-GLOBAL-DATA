@@ -6,11 +6,11 @@ The **COVID-19 Dashboard** is a comprehensive and interactive visualization tool
 
 ## Key Insight:
 
-a. Covid cases and deaths were increasing till 2021. From 2022 onwards,
-b. Covid was at its peak in 2021.
-c. From 2022 onwards intensity of covid started reducing.
-d. USA, India and Brazil were affected by covid the most.
-e. USA in AMRO region was affected the most by COVID.
+- Covid cases and deaths were increasing till 2021. From 2022 onwards,
+- Covid was at its peak in 2021.
+- From 2022 onwards intensity of covid started reducing.
+- USA, India and Brazil were affected by covid the most.
+- USA in AMRO region was affected the most by COVID.
 
 ## Features
 
